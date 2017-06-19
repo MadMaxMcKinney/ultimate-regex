@@ -1,0 +1,1 @@
+c:\users\maxga\documents\visual studio 2017\Projects\UltimateRegex\UltimateRegex\UltimateRegex.csproj;x86
